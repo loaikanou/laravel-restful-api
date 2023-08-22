@@ -1,17 +1,17 @@
 ## About Laravel RESTFUL API
 
--- How to run Laravel Restful API.<br>
+-- How to run Laravel Restful API.
 ```
-git clone https://github.com/loaikanou/laravel-restful-api.git<br>
-cd laravel-restful-api.<br>
-composer install.<br>
-copy .env.example to .env and config database.<br>
-php artisan key:generate.<br>
-php artisan migrate --seed.<br>
-php artisan passport:install.<br>
-php artisan passport:keys.<br>
-php artisan serve.<br>
+git clone https://github.com/loaikanou/laravel-restful-api.git
+cd laravel-restful-api
+composer install
+copy .env.example to .env and config database
+php artisan key:generate
+php artisan migrate --seed
+php artisan passport:install
+php artisan passport:keys
+php artisan serve
 ```
----<br>
-Loai Kanou<br>
----<br>
+---
+Loai Kanou
+---
